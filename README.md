@@ -11,3 +11,7 @@
 ## CSS
 
 - [Scroll anchoring](./entries/2020-08-05-overflow-anchor.md) and `overflow-anchor`.
+
+## ZSH
+
+- [Startup Files](./entries/2021-10-30-zsh-startup-files.md).
